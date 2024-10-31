@@ -1,0 +1,23 @@
+{
+  "name": "npm-react-hooks",
+  "version": "1.0.0",
+  "description": "\"React Hooks\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivajisurwase/npm-react-hooks.git"
+  },
+  "keywords": [
+    "React",
+    "Hooks"
+  ],
+  "author": "Shivaji & Shyamal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shivajisurwase/npm-react-hooks/issues"
+  },
+  "homepage": "https://github.com/shivajisurwase/npm-react-hooks#readme"
+}
